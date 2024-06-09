@@ -10,9 +10,11 @@
   <a href="https://www.notion.so/My-introduction-a561175c871249e2a4778b48f597e144" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu11-M&show_icons=true&theme=radical)
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu11-M&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fu11-M&layout=compact)
+  
+</div>
 
 Here are some ideas to get you started:
 
