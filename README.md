@@ -3,6 +3,7 @@
 **fu11-M/fu11-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://www.notion.so/My-introduction-a561175c871249e2a4778b48f597e144" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu11-M&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fu11-M&layout=compact)
 
