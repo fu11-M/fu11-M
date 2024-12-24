@@ -6,10 +6,6 @@
   <h2>Skill</h2>  
 </div>
 
-<div>
-  <a href="https://www.notion.so/10bd7307232d80f7b74dc694b2c29438?v=fffd7307232d8109b3d5000c8f81f63b"/></a>
-</div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu11-M&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
